@@ -1,0 +1,5 @@
+﻿  Example13.c
+C:\Users\USER\Desktop\C언어\C언어배우기DAY4\Example13.c(18,9): warning C4475: 'printf' : 길이 한정자 'j'은(는) 서식 지정자에서 형식 필드 문자 'f'과(와) 함께 사용할 수 없습니다.
+C:\Users\USER\Desktop\C언어\C언어배우기DAY4\Example13.c(101,10): warning C4473: 'scanf_s': 서식 문자열에 대한 인수가 충분하게 전달되지 않았습니다.
+C:\Users\USER\Desktop\C언어\C언어배우기DAY4\Example13.c(108,9): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 1의 형식이 'size_t'입니다.
+  C언어배우기DAY4.vcxproj -> C:\Users\USER\Desktop\C언어\C언어배우기DAY4\x64\Debug\C언어배우기DAY4.exe
